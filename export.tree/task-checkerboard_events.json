@@ -1,0 +1,13 @@
+{
+  "onset": {
+    "Description": "Onset of the event",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event, starting from the onset",
+    "Units": "seconds"
+  },
+  "trial_type": {
+    "Description": "Type of event"
+  }
+}
